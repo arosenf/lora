@@ -1,0 +1,20 @@
+= Links, Material, Learning resources
+
+== General LoRa stuff
+
+- https://github.com/ttn-zh/ic880a-gateway/wiki[From zero to LoRaWAN in a weekend]
+
+== seeed studio Wio-E5 mini
+
+- https://www.seeedstudio.com/LoRa-E5-mini-STM32WLE5JC-p-4869.html[Product Page]
+- https://wiki.seeedstudio.com/LoRa_E5_mini/[Product Wiki]
+
+== The Things Network
+
+- https://github.com/ttn-zh[The Things Network Zurich]
+- https://www.thethingsnetwork.org/community/zurich/[TTN Zurich Community]
+- https://www.thethingsnetwork.org/get-started[TTN Get Started]
+
+== Akenza / ewz.LoRaWAN
+
+- https://akenza.io/features/connectivity/caas/ewz[Sensoren über das  ewz.LoRaWAN anbinden]
