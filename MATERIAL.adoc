@@ -3,6 +3,7 @@
 == General LoRa stuff
 
 - https://github.com/ttn-zh/ic880a-gateway/wiki[From zero to LoRaWAN in a weekend]
+- https://www.seeedstudio.com/blog/2020/08/03/lorapedia-an-introduction-of-lora-and-lorawan-technology/
 
 == seeed studio Wio-E5 mini
 
