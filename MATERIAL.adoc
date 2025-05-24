@@ -19,3 +19,8 @@
 == Akenza / ewz.LoRaWAN
 
 - https://akenza.io/features/connectivity/caas/ewz[Sensoren über das  ewz.LoRaWAN anbinden]
+
+== Misc
+
+- https://erik-engheim.medium.com/arduino-serial-programming-c717fa5283e0[Arduino Serial Programming]
+- https://youtube.com/@andreasspiess
