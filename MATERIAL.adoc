@@ -25,6 +25,7 @@
 - https://erik-engheim.medium.com/arduino-serial-programming-c717fa5283e0[Arduino Serial Programming]
 - https://youtube.com/@andreasspiess
 - https://tinygo.org/docs/reference/microcontrollers/wioterminal[Tiny Go]
+- https://meshtastic.org/
 
 == LowPrio
 
